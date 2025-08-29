@@ -9,15 +9,17 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitornspb&bg_color=000000&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150"/>
-</p>
-
 <div align="center">  
   <a href="https://www.instagram.com/vitor_nobrega" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div> 
+  <a href="https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/vitor-souza-b85b7a285/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:devvitornobrega@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
  
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
