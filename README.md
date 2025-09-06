@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/vitor_nobrega" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/vitor-souza-b85b7a285/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-souza-b85b7a285/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:devvitornobrega@gmail.com">
@@ -34,7 +34,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Word](https://img.shields.io/badge/-Word-0D1117?style=for-the-badge&logo=microsoftword&labelColor=0D1117)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117)&nbsp;
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-0D1117?style=for-the-badge&logo=microsoftpowerpoint&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117)&nbsp;
@@ -47,6 +47,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
