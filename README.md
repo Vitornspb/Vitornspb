@@ -40,6 +40,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 
+### 🤖 Interesse em Inteligência Artificial
+Explorando IA como ferramenta para desenvolvimento e automação:
+
+- Uso de IAs generativas (ChatGPT, Gemini, Claude)
+- Criação de prompts e automações
+- Integração de IA com desenvolvimento Front-End
+- Exploração de modelos de visão e geração de conteúdo
+
+Buscando unir **Front-End + IA** para criar soluções modernas e eficientes.
+
 ---
 
 <picture>
