@@ -9,6 +9,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitornspb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitornspb&bg_color=000000&color=00bfbf&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 <div align="center">  
@@ -46,10 +48,10 @@
 
 ### 🧠 Interesse em Inteligência Artificial  
 Além do desenvolvimento Front-End, também estudo **IA aplicada ao desenvolvimento**, explorando:  
-- 🔹 Modelos generativos (ChatGPT, Gemini, Claude)  
-- 🔹 Automação e integração de IA em aplicações  
-- 🔹 Prompt engineering  
-- 🔹 Uso de IA para melhorar interfaces e experiência do usuário  
+🔹 Modelos generativos (ChatGPT, Gemini, Claude)  
+🔹 Automação e integração de IA em aplicações  
+🔹 Prompt engineering  
+🔹 Uso de IA para melhorar interfaces e experiência do usuário  
 
 Busco integrar IA como uma ferramenta para **criar aplicações mais rápidas, inteligentes e eficientes**, especialmente no desenvolvimento web.
 
