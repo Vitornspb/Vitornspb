@@ -4,20 +4,6 @@
 
 ---
 
-<div align="center">
-  <img
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=Vitornspb&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=7200"
-  />
-
-  <img
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitornspb&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache_seconds=7200"
-  />
-</div>
-
----
-
 <div align="center">  
   <a href="https://www.instagram.com/vitor_nobrega" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
