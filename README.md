@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Vitor+Nóbrega+de+Souza;Analista+de+Dados;Python,+Excel,+Power+BI+e+APIs;Automação+e+análise+de+dados;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Vitor+Nóbrega;Analista+de+Dados;Python,+Excel,+Power+BI+e+SQL;Automação+e+análise+de+dados;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg) 
 
 ---
 
@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/vitor_nobrega" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vitor-souza-b85b7a285/" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-vitornobrega/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:devvitornobrega@gmail.com">
@@ -20,8 +20,8 @@
 
 ### 🚀 Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&labelColor=0D1117)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=0D1117)
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=0D1117)
 ![APIs](https://img.shields.io/badge/-APIs-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
 
 ---
