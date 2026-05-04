@@ -22,22 +22,23 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![APIs](https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 ---
 
 ### 🛠 Tools:
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 
 ---
 
 ### 📚 Studying in this moment:
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws)&nbsp;
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=databricks)&nbsp;
 
 ---
 
