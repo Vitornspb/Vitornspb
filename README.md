@@ -41,6 +41,15 @@
 
 ---
 
+### 💻 Background em Desenvolvimento
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3)&nbsp;
+
+---
+
 ### 🧠 Interesse em Inteligência Artificial  
 Explorando **IA aplicada a dados e automação**, com foco em:  
 🔹 Análise e interpretação de dados  
