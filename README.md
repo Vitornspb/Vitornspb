@@ -23,7 +23,6 @@
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
-![APIs](https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 ---
 
